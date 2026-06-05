@@ -14,10 +14,10 @@ from sample_data.examples import get_scenario, get_scenario_names
 
 COURSE_NAME = "Parallel and Distributed Computing OEL"
 GROUP_MEMBERS = [
-    "Member 1 - Student ID",
-    "Member 2 - Student ID",
-    "Member 3 - Student ID",
-    "Member 4 - Student ID",
+    "Saad Ul Hassan",
+    "M Sufyan",
+    "Syeda Zehra Fatima",
+    "Abdul Rafay",
 ]
 
 
